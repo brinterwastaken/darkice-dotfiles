@@ -12,7 +12,7 @@
 [Bumblebee Status](https://github.com/tobi-wan-kenobi/bumblebee-status)
 
 <h2>Notes</h2>
-W.I.P.
-<a target="_blank" href="https://icons8.com/icon/5gG6u0nUdoLI/iceberg">Iceberg</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>\
-Result from installing dotfiles may/may not be same as the screenshot. There might be minor differences between what you recieve and the screenshot as i have updated the setup since i've taken the screenshot.
-https://cocopon.github.io/iceberg.vim/
+- W.I.P.
+- <a target="_blank" href="https://icons8.com/icon/5gG6u0nUdoLI/iceberg">Iceberg</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+- Result from installing dotfiles may/may not be same as the screenshot. There might be minor differences between what you recieve and the screenshot as i have updated the setup since i've taken the screenshot.
+
