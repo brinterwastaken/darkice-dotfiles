@@ -6,6 +6,10 @@
 
 - Colorscheme- https://cocopon.github.io/iceberg.vim/
 
+<h2>Dependencies</h2>
+[i3 gaps](https://github.com/Airblader/i3)
+[i3lock-fancy](https://github.com/meskarune/i3lock-fancy)
+[Bumblebee Status](https://github.com/tobi-wan-kenobi/bumblebee-status)
 
 Coming soon™️\
 <a target="_blank" href="https://icons8.com/icon/5gG6u0nUdoLI/iceberg">Iceberg</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>\
