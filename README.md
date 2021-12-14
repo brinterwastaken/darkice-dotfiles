@@ -8,7 +8,7 @@
 
 <h2>Dependencies</h2>
 <a href ="https://github.com/Airblader/i3">i3 gaps</a>
-<a href ="https://github.com/meskarune/i3lock-fancy">i3lock-fancy</a>
+<a href ="https://github.com/meskarune/i3lock-fancy">i3lock fancy</a>
 <a href ="https://github.com/tobi-wan-kenobi/bumblebee-status"> Bumblebee Status</a>
 
 <h2>Notes</h2>
